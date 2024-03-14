@@ -13,7 +13,7 @@ O projeto foi desenvolvido durante o evento React Native na prática com objetiv
 
 ## ⚙️ Funcionalidades
 
-- [x] Seleciona os ingredientes.
+- [x] Listagem de ingredientes.
   - [x] Visualização das receitas que contém os ingredientes selecionados.
   - [x] visualização do mode de preparo da receita.
 
